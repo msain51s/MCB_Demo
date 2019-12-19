@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MCB Demo</string>
+    <string name="value1">Enter first value</string>
+    <string name="value2">Enter second value</string>
+</resources>
